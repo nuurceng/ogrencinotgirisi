@@ -1,0 +1,38 @@
+177510075 Elif Korkmaz 
+1. Öğrencinin VİZE notu:40.0
+1. Öğrencinin FİNAL notu:50.0
+1. Öğrenci Ortalaması:46.0
+1. Öğrenci Harflendirmesi:CC---Durumu:Kaldı
+--------------------------------
+286028068 Can Deniz 
+2. Öğrencinin VİZE notu:70.0
+2. Öğrencinin FİNAL notu:40.0
+2. Öğrenci Ortalaması:52.0
+2. Öğrenci Harflendirmesi:BB---Durumu:Geçti
+--------------------------------
+394933019 Pelin Şahin 
+3. Öğrencinin VİZE notu:50.0
+3. Öğrencinin FİNAL notu:50.0
+3. Öğrenci Ortalaması:50.0
+3. Öğrenci Harflendirmesi:CC---Durumu:Kaldı
+--------------------------------
+48869798 Rabia Korkmaz 
+4. Öğrencinin VİZE notu:40.0
+4. Öğrencinin FİNAL notu:50.0
+4. Öğrenci Ortalaması:46.0
+4. Öğrenci Harflendirmesi:CC---Durumu:Kaldı
+--------------------------------
+--------------------------------
+En Yüksek Puanlı öğrenci Ortalaması: 52.0
+En Düşük Puanlı öğrenci Ortalaması:  46.0
+--------GEÇTİ DURUMDA-------------
+AA Harfi alan öğrenci Sayısı: 0
+BB Harfi alan öğrenci Sayısı: 1
+---------KALDI DURUMDA------------
+CC Harfi alan öğrenci Sayısı: 3
+DD Harfi alan öğrenci Sayısı: 0
+-----------Frekans Grafiği------------
+AA Harf Notu: 
+BB Harf Notu: *
+CC Harf Notu: ***
+DD Harf Notu: 
